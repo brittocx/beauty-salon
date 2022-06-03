@@ -41,6 +41,12 @@ const swiper = new Swiper(".swiper-container", {
   },
   mousewheel: false,
   keyboard: true,
+  breakpoints: {
+    640: {
+      slidesPerView: 2,
+      setWrapperSize: true,
+    },
+  },
 });
 
 /* =================== SCROLL REVEAL=================== */
@@ -63,7 +69,7 @@ scrollReveal.reveal(
   { interval: 100 }
 );
 
-/* =================== BACK TO TOPL=================== */
+/* =================== BACK TO TOP=================== */
 
 const backToTopButton = document.querySelector(".back-to-top");
 window.addEventListener("scroll", function () {
@@ -73,3 +79,5 @@ window.addEventListener("scroll", function () {
     backToTopButton.classList.remove("show");
   }
 });
+
+/* =================== ACTIVE MENU =================== */
