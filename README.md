@@ -1,5 +1,5 @@
 <h4 align="center">
-  🚀 Semana NLW#6 - Mission Origin
+  Beauty Salon
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brittocx/beauty-salon">
@@ -10,19 +10,26 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
 
-<p>Pode acessar a pagina por <a href=''> Aqui</a></p>
+<p>A págin está online e disponível <a href='https://brittocx.github.io/beauty-salon/'> aqui</a></p>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="beauty_preview.png" width="100%">
 </p>
+
+## 💻 Projeto
+
+Projeto criado na Semana NLW#6 - Mission Origin da RocketSeat 🚀 
+
+Beauty Salon é uma página institucional no formato One Page, responsiva e pode ser utilizada como template para projetos reais de diversos segmentos.
+Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer.
 
 ## 🚀 Tecnologias
 
@@ -43,9 +50,6 @@ Utilitários
 - [randomuser.me](https://randomuser.me/photos)
 - [IconMoon](https://icomoon.io/app/#/select)
 
-## 💻 Projeto
-
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
 
 ## 🔖 Layout
 
