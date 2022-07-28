@@ -1,6 +1,6 @@
-<h4 align="center">
+<h1 align="center">
   Beauty Salon
-</h4>
+</h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brittocx/beauty-salon">
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<p>A págin está online e disponível <a href='https://brittocx.github.io/beauty-salon/'> aqui</a></p>
+<p>A página está online e disponível <a href='https://brittocx.github.io/beauty-salon/'> aqui</a></p>
 
 <p align="center">
   <img alt="OriginSix" src="beauty_preview.png" width="100%">
